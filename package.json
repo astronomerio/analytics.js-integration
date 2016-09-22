@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration",
+  "name": "@astronomerio/analytics.js-integration",
   "version": "3.1.0",
   "description": "Base factory for analytics.js integrations",
   "keywords": [
